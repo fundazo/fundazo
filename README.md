@@ -14,4 +14,3 @@ I work on **web development, IT support, troubleshooting, and software projects*
 ## What's Here
 - Personal projects
 
-
