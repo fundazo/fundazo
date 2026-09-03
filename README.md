@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**fundazo/fundazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GitHub Playground
 
-Here are some ideas to get you started:
+Computer Science developer building modern web applications and solving real-world tech problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on **web development, IT support, troubleshooting, and software projects**. I enjoy turning ideas into functional, user-friendly applications.
+
+## What I Do
+
+- Build responsive websites and web applications
+- Develop frontend interfaces with React and Next.js
+- Work with Node.js, Firebase, and Supabase
+- Troubleshoot hardware, software, and technical issues
+- Explore data science and machine learning projects
+
+## Toolbox
+
+- React.js | Next.js | JavaScript
+- Node.js | Firebase | Supabase
+- HTML | CSS | Tailwind CSS
+- Python | Git | GitHub
+
+## What's Here
+
+- Personal projects
+- Web development experiments
+- Software engineering projects
+- Open-source contributions
+
+Feel free to explore, fork, and connect! Let's create something awesome.
