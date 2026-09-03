@@ -7,11 +7,7 @@ I work on **web development, IT support, troubleshooting, and software projects*
 
 ## What I Do
 - Build responsive websites and web applications
-- Develop frontend interfaces with React and Next.js
-- Work with Node.js, Firebase, and Supabase
-- Troubleshoot hardware, software, and technical issues
-- Explore data science and machine learning projects
-
+  
 ## Toolbox
 - React.js | Next.js | JavaScript
 - Node.js | Firebase | Supabase
@@ -20,5 +16,5 @@ I work on **web development, IT support, troubleshooting, and software projects*
 
 ## What's Here
 - Personal projects
-- Web development experiments
+
 
